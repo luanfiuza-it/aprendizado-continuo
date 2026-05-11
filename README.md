@@ -11,7 +11,7 @@ Aqui organizo anotações didáticas sobre tudo o que aprendo diariamente em TI,
 * **[🔢 Sistemas Numéricos](./sistemas-numericos)**: Binário, Octal, Decimal e Hexadecimal na teoria e prática.
 * **[🏛️ Fundamentos de Sistemas](./fundamentos-de-sistemas-computacionais)**: História da computação, gerações e Arquitetura de Von Neumann.
 * **[🔌 Componentes de Hardware](./componentes-basicos-do-computador)**: Mergulho técnico em CPU (ULA, UC, Registradores), Memórias e Barramentos.
-* **[⚖️ Álgebra Booleana](./algebra-booleana-e-logica-digital)**: Lógica digital, portas lógicas e simplificação de circuitos.
+* **[⚖️ Álgebra Booleana](./álgebra-booleana-e-lógica-digital)**: Lógica digital, portas lógicas e simplificação de circuitos.
 
 ---
 
