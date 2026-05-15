@@ -1,7 +1,5 @@
 # 🐧 Instalação e Configuração do WSL2 no Windows
 
-# 🐧 O que é WSL2?
-
 O **WSL2 (Windows Subsystem for Linux 2)** permite rodar uma distribuição Linux diretamente dentro do Windows, sem precisar utilizar máquina virtual pesada ou dual boot.
 
 Com ele é possível:
