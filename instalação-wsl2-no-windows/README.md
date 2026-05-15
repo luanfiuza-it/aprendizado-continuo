@@ -100,13 +100,13 @@ git --version
 ## Nome de usuário
 
 ```bash
-git config --global user.name "luanfiuza-it"
+git config --global user.name "seu-usuário"
 ```
 
 ## Email
 
 ```bash
-git config --global user.email "luanfiuza.it@gmail.com"
+git config --global user.email "seu-email"
 ```
 
 ## Verificar configurações
@@ -122,7 +122,7 @@ git config --list
 ## Gerando chave SSH
 
 ```bash
-ssh-keygen -t ed25519 -C "luanfiuza.it@gmail.com"
+ssh-keygen -t ed25519 -C "seu-email"
 ```
 
 ---
