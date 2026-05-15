@@ -8,7 +8,7 @@ Aqui organizo anotações didáticas sobre tudo o que aprendo diariamente em TI,
 * **[🔌 Componentes de Hardware](./componentes-básicos-do-computador)**: Mergulho técnico em CPU (ULA, UC, Registradores), Memórias e Barramentos.
 * **[🌐 Fundamentos de Redes](./fundamentos-de-redes)**: Modelo OSI, protocolos (TCP/IP, DNS, DHCP) e infraestrutura.
 * **[🏛️ Fundamentos de Sistemas](./fundamentos-de-sistemas-computacionais)**: História da computação, gerações e Arquitetura de Von Neumann.
-* **[😺 Git Github Básico ao Intermediário](./git-github-básico-ao-intermediário)**: O que é Git e GitHub, como instalar e configurar.
+* **[😺 Git e Github Básico ao Intermediário](./git-github-básico-ao-intermediário)**: O que é Git e GitHub, como instalar e configurar.
 * **[⚙️ Hardware e Computação](./hardware-e-computacao)**: Como as máquinas pensam e como seus componentes conversam.
 * **[🐧 Instalação WSL2 no Windows](./instalação-wsl2-no-windows)**: O que é o WSL2, e como instalá-lo corretamente.
 * **[🎒 Mochila Hacker (Gadgets)](./mochila-hacker)**: Ferramentas físicas para Pentest e exploração de radiofrequência.
